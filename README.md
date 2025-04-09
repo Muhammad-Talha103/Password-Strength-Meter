@@ -41,10 +41,12 @@ This app checks your password's strength based on common security rules and prov
 git clone https://github.com/your-username/password-strength-meter.git
 cd password-strength-meter
 
----
+```
 
 ## Install Steamlit and Run Commands:
-
+```bash
 pip install streamlit
-
+```
+```bash
 streamlit run app.py
+```
